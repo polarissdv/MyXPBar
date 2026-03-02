@@ -63,7 +63,6 @@ COMPATIBILITY
 - Client: World of Warcraft 3.3.5a (WotLK)
 - Server: Designed for Project Ascension, but works on any 3.3.5a server.
 
-============================================================
+
 Author: [Polarz]
 Version: 1.0
-============================================================
