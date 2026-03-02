@@ -1,7 +1,8 @@
 ## Interface: 30300
 ## Title: MyXPBar (Ascension Style)
 ## Notes: Lightweight XP Bar inspired by Luxthos
-## Author: You
+## Author: Polarz
 ## Version: 1.0
 
 MyXPBar.lua
+
