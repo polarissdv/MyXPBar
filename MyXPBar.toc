@@ -1,7 +1,7 @@
 ## Interface: 30300
-## Title: My Custom XP Bar
-## Notes: Barre d'XP style Ascension Bronzebeard
-## Author: Polarz
+## Title: MyXPBar (Ascension Style)
+## Notes: Lightweight XP Bar inspired by Luxthos
+## Author: You
 ## Version: 1.0
 
 MyXPBar.lua
